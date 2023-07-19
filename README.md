@@ -1,2 +1,2 @@
 # discord-client-framework
-Basic Discord Foundation
+Basic Discord Framework
