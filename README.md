@@ -1,3 +1,3 @@
 # discord-client-framework
 
-Basic Discord Framework
+Basic Discord Framework with Added Settings file
